@@ -1,0 +1,149 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "moviename": "Spider-Man: Into the Spider-Verse",
+      "hero": "Surya",
+      "heroine": "Gemma Chan",
+      "director": "Bob Persichetti",
+      "production_house": "Sony Co",
+      "budget": "250 crore INR",
+      "collection": "1810 crore INR",
+      "release_date": "2023",
+      "rating": "9.1",
+      "description": "Spider-Man, centers on student Peter Parker (Tobey Maguire) who, after being bitten by a genetically-altered spider, gains superhuman strength and the spider-like ability to cling to any surface.",
+      "duration": "2h 45mins",
+      "genre": [
+        "Sci-fi",
+        "Action"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/-KfsY-qwBS0?si=dHakex7DJtzFxR28",
+      "banner": "https://external-preview.redd.it/AGhej3vDEiXBHJHvUf5dn1vAaqiHwcbouIBGUHUHLj0.jpg?auto=webp&s=e0c213705a2c3080e9f572607f69ee77bfc3b4c2",
+      "poster": "https://i0.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2023/05/Fwa8bwqagAEsWHi.jpg?resize=686%2C1000&ssl=1"
+    },
+    {
+      "id": "2",
+      "moviename": "Logan",
+      "hero": "Surya",
+      "heroine": "Kiran mai",
+      "director": "Bob Persichetti",
+      "production_house": "Sony Co",
+      "budget": "250 crore INR",
+      "collection": "1810 crore INR",
+      "release_date": "2023",
+      "rating": "9.1",
+      "description": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+      "duration": "2h 45mins",
+      "genre": [
+        "Sci-fi",
+        "Action"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/-KfsY-qwBS0?si=dHakex7DJtzFxR28",
+      "banner": "https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2017/02/logan-banner.png",
+      "poster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/9df80a48254167.5892bdbfb896d.jpg"
+    },
+    {
+      "id": "3",
+      "moviename": "Godzilla",
+      "hero": "Surya",
+      "heroine": "Kiran mai",
+      "director": "Bob Persichetti",
+      "production_house": "Sony Co",
+      "budget": "250 crore INR",
+      "collection": "1810 crore INR",
+      "release_date": "2023",
+      "rating": "9.1",
+      "description": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+      "duration": "2h 45mins",
+      "genre": [
+        "Sci-fi",
+        "Action"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/-KfsY-qwBS0?si=dHakex7DJtzFxR28",
+      "banner": "https://w0.peakpx.com/wallpaper/747/1013/HD-wallpaper-godzilla-8k-banner.jpg",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1yilPdQIl1bYx-4t_eL81LexPwT8JNDV75w&usqp=CAU"
+    },
+    {
+      "id": "4",
+      "moviename": "Kunfu panda",
+      "hero": "Surya",
+      "heroine": "Kiran mai",
+      "director": "Bob Persichetti",
+      "production_house": "Sony Co",
+      "budget": "250 crore INR",
+      "collection": "1810 crore INR",
+      "release_date": "2023",
+      "rating": "9.1",
+      "description": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+      "duration": "2h 45mins",
+      "genre": [
+        "Sci-fi",
+        "Action"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/-KfsY-qwBS0?si=dHakex7DJtzFxR28",
+      "banner": "https://100filmsinayear.files.wordpress.com/2016/12/kung-fu-panda-3-banner.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGUwMTkwZjQtZTE1ZS00YWI0LWI0NTEtZjZjNDMzYjAwYjBjXkEyXkFqcGdeQXVyODI2Mjg5ODA@._V1_.jpg"
+    },
+    {
+      "id": "5",
+      "moviename": "The Creater",
+      "hero": "Surya",
+      "heroine": "Gemma Chan",
+      "director": "Ken Watanabe",
+      "production_house": "Hombale",
+      "budget": "250 crore INR",
+      "collection": "1810 crore INR",
+      "release_date": "2023",
+      "rating": "9.1",
+      "description": "As a future war between the human race and artificial intelligence rages on, ex-special forces agent Joshua is recruited to hunt down and kill the Creator, the elusive architect of advanced AI. The Creator has developed a mysterious weapon that has the power to end the war and all of mankind.",
+      "duration": "2h 45mins",
+      "genre": [
+        "Sci-fi",
+        "Action"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/-KfsY-qwBS0?si=dHakex7DJtzFxR28",
+      "banner": "https://images3.alphacoders.com/133/1334629.jpg",
+      "poster": "https://i.ebayimg.com/images/g/NecAAOSwzDRkc2gJ/s-l1600.jpg"
+    },
+    {
+      "id": "d2e5",
+      "moviename": "Leo",
+      "hero": "Vijay",
+      "heroine": "Trisha",
+      "director": "Lokesh",
+      "budget": "200",
+      "collection": "585",
+      "release_date": "2022",
+      "duration": "3 Hrs 3 mins",
+      "rating": "10",
+      "description": "Action film By actor Vijay",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "languages": [
+        "Tamil",
+        "Telugu"
+      ],
+      "trailer_link": "",
+      "banner": "",
+      "poster": "https://images.indianexpress.com/2023/09/leo2.jpg"
+    }
+  ]
+}
